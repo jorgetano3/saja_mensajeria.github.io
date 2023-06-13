@@ -17,20 +17,19 @@
 
         .CONTACTO{
             display: flex;
-            width: 90%;
-            justify-content: space-be0pxtween;
-            margin:  6px 0px -53px 189px ;
+            width: 100%;
+            justify-content: space-evenly;
+            margin-left: 58px;
         }
 
         .contacto1,
         .contacto2,
-         .contacto3{
-            width: 30%;
+         .contacto3,
+         .contacto4{
+            width: 25%;
             height: 250px;
-            display: flex;
         }
         .CONTACTO a img{
-            display: flex;
             width: 50%;
         }
                     
