@@ -19,7 +19,7 @@
             display: flex;
             width: 100%;
             justify-content: space-evenly;
-            margin-left: 50px;
+            margin-left: 30px;
         }
 
         .contacto1,
@@ -30,7 +30,7 @@
             height: 250px;
         }
         .CONTACTO a img{
-            width: 50%;
+            width: 67%;
         }
                     
                  :root {
